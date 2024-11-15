@@ -66,7 +66,6 @@ public class test1 {
             sum += i;
         }
         float avr = ((float)sum) / array.length;
-        float avr = ((float) sum) / array.length;
 
         // 出力
         System.out.println();
