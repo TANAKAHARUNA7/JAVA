@@ -55,11 +55,11 @@ public class anser {
             }
 
             // 출력
-            System.out.println("-------------------");
+            System.out.println("------------------------------------");
             for (char item : array){
-                System.out.print("\t" + item);
+                System.out.print("\t" + item + "\t:\t");
             }
-            System.out.println("\n-----------------");
+            System.out.println("\n------------------------------------");
 
             // 3. 콤보 확인
             char selectedItem = 0;
