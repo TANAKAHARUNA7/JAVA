@@ -16,8 +16,24 @@ public class ploblem2 {
         // score
         int score = 0;
 
+        // bonus
+        int bonus = 0;
+
         // GameCount
         int GameCount = 1;
+
+        // 반복
+        while (true) {
+            System.out.print("3~7사이의 정수를 입력하세요: ");
+            // 사용자로부터 3~7사이의 정수를 입력받아 슬롯 개수를 설정
+            value = sc.nextInt();
+            String space = sc.nextLine();
+            // 입력값이 유호하지 않으면 오류 메시지출력
+            if (value >= 3 && value <= 7) {
+                break;
+            }
+            System.out.println("재입력하세요.");
+        }
 
         while (true) {
 
@@ -36,19 +52,13 @@ public class ploblem2 {
             // 매 로은드 횟수를 표시
             System.out.println("----Round " + GameCount + "---");
 
-            // 반복
-            while (true) {
-                System.out.print("3~7사이의 정수를 입력하세요: ");
-                // 사용자로부터 3~7사이의 정수를 입력받아 슬롯 개수를 설정
-                value = sc.nextInt();
-                // 입력값이 유호하지 않으면 오류 메시지출력
-                if (value >= 3 && value <= 7) {
-                    break;
-                }
-                System.out.println("재입력하세요.");
-            }
+            System.out.print("Press Enter to spin the slot machine: ");
 
-            char itemsList [] = new char [value];
+            String enter = sc.nextLine();
+
+
+            // 슬롯 결과 저장
+            char itemsList [] = new char[value];
 
             // 성정된 슬롯 개수만큼 연산자를 무작위로 선택하여 결과 배열 생성
             for ( int i = 0 ; i < itemsList.length ; i++ ){
@@ -63,69 +73,66 @@ public class ploblem2 {
             }
             System.out.println("]");
 
-
             // Combo 횟수
-            int Combo = 0;
-
-            //bonus
-            int bonus = 0;
-
-
-
-            // symbol
-            char symbol = ' ';
+            int Combo = 1;
 
             // 연속된 동일 연산자가 있는지 확인
-            for ( int i = 0 ; i < itemsList.length - 1 ; i++ ){
-                if (itemsList[i] == itemsList[i +1]){
+            for ( int i = 0 ; i < itemsList.length  ; i++ ){
+                if (i < itemsList.length - 1 && itemsList[i] == itemsList[i + 1]) {
                     Combo++;
-                    symbol = itemsList[i];
+                }else {
+                    // 2개일 경우
+                    if (Combo == 2) {
+                        switch (itemsList[i]) {
+                            // ++ -> +1
+                            case '+':
+                                bonus += 1;
+                                break;
+                            // -- -> -1
+                            case '-':
+                                bonus -= 1;
+                                break;
+                            // ** -> +2
+                            default:
+                                bonus += 2;
+                        }
+                    }
+                    //3개일 경우
+                    else if (Combo >= 3) {
+                        switch (itemsList[i]) {
+                            // +++ -> +3
+                            case '+':
+                                bonus += 3;
+                                break;
+                            // --- -> -3
+                            case '-':
+                                bonus -= 3;
+                                break;
+                            // *** -> +5
+                            case '*':
+                                bonus += 5;
+                        }
+                    }
+                    Combo = 1;
                 }
             }
+            score += bonus;
 
-            // 연속된 동일 연산자의 개수를 그룹으로 탐지하여 점수계산
-            // 2개일 경우
-            if (Combo == 1){
-                switch (symbol){
-                    // ++ -> +1
-                    case '+':
-                        bonus++;
-                        break;
-                    // -- -> -1
-                    case '-':
-                        bonus--;
-                        break;
-                    // ** -> +2
-                    default:
-                        bonus += 2;
-                }
-            }
-            //3개일 경우
-            if (Combo == 2) {
-                switch (symbol) {
-                    // +++ -> +3
-                    case '+':
-                        score += 3;
-                        break;
-                    // --- -> -3
-                    case '-':
-                        break;
-                    // *** -> +5
-                    case  '*':
-                        score += 5;
-
-                }
-            }
-
+            // 획득한 보너스 포인트를 표시
+            System.out.println("bonuspoint: " + bonus);
             // 현재 score 표시
+            System.out.println("현재 점수: " + score + "\n");
 
+            // 계임 카은트 +
             GameCount ++;
+
+            // 보너스 포인트 초기화
+            bonus = 0;
+
+
+
 
 
         }
-
-
-
-
     }
 }
