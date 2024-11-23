@@ -1,4 +1,4 @@
-package Array;
+package ArrayExam;
 
 public class test2 {
     static  float[] getSumAvg(int a, int b, int c){

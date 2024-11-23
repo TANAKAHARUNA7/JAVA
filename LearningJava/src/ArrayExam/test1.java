@@ -1,4 +1,4 @@
-package Array;
+package ArrayExam;
 public class test1 {
   static int[] createIntArray(int argSize){
       return new int[argSize];
