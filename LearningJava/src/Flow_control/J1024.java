@@ -16,15 +16,13 @@ public class J1024 {
         for(int i = 0; i < bar.length; i++){
             System.out.println(bar[i]);
         }
+        System.out.println();
 
         int kin[] = new int[5];
         for (int index = 0, value = 5; index < bar.length ; index++, value--){
             kin[index] = value;
-        }
-
-        for (int value :bar){
-            System.out.println(value);
-        }
+            System.out.println(kin[index]);
+        }        System.out.println();
 
         for (int index = 0; index < bar.length; index++){
             System.out.println(bar[index]);

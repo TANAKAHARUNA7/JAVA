@@ -1,6 +1,6 @@
 package Flow_control;
 
-public class test3 {
+public class FunctionEx2 {
     public static int calculateDiscount(int amount) {
         if (amount >= 30000) {
             return (int) (amount * 0.2);

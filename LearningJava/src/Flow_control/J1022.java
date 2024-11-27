@@ -48,10 +48,10 @@ public class J1022 {
 
         // bar配列の各元素の値を初期化
         for (int iCount = 0, value = 1;
-            iCount < bar.length ; iCount++, value *= 10){
+             iCount < bar.length ; iCount++, value *= 10){
             bar[iCount] = value;
         }
-        // bar配列の各元素の値を出力
+        // ba r配列の各元素の値を出力
         for (int iCount = 0 ; iCount < bar.length ; iCount++){
             System.out.println(bar[iCount]);
         }

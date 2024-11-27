@@ -2,7 +2,7 @@ package Flow_control;
 
 import java.util.Scanner;
 
-public class test {
+public class SwitchEx {
     public static void main(String[] age){
 
         Scanner scanner = new Scanner(System.in) ;
