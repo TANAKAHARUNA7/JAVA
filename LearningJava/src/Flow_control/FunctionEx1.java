@@ -29,7 +29,7 @@ public class FunctionEx1 {
     public static void main(String[] args) {
 
         // 사용자로부터 정수를 입력
-        int inputValue = 3;
+        int inputValue = 2;
 
         // if series
         // 1 이면 구구단 출력
