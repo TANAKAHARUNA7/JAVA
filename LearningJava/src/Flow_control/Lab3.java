@@ -100,7 +100,6 @@ public class Lab3 {
                         flag = false;
                         break;
 
-
                     } else {
                         System.out.println("재입력 하세요.");
                     }
