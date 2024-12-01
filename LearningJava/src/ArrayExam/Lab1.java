@@ -27,8 +27,8 @@ public class Lab1 {
     }
 
     static void delete(float[][] Grades) {
-        while (true) {
 
+        while (true) {
             // 삭제할 학생의 학번을 입력받음
             System.out.print("삭제할 학생의 학번을 입력하세요: ");
 

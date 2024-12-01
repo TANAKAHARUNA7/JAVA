@@ -37,15 +37,32 @@ public class Lab4 {
         }
 
         // 입력된 배열의 모든 원소값을 쉼표(,)로 구분하여 출력
-        for (int i = 0 ; i < itemList.length ; i++ ) {
-            System.out.print( itemList[i] + ((i < itemList.length -1 )? ",":" "));
+        for (int i = 0; i < itemList.length; i++) {
+            System.out.print(itemList[i] + ((i < itemList.length - 1) ? "," : " "));
         }
 
-
-        // 최대값,
         // 최소값
-        // 평균계산
+        int small = itemList[0];
+        // 최대값,
+        int Big = itemList[0];
+        // 합계
+        int sum = 0;
+        // 평균
+        float avg = 0;
 
+        for (int value : itemList) {
+            if (value > Big) {
+                Big = value;
+            } else if (value < small) {
+                small = value;
+            }
+            sum += value;
+        }
+        avg = (float) sum / itemList.length;
+
+        System.out.println("\n최대값: " + Big);
+        System.out.println("최소값: " + small);
+        System.out.printf("平均: %.2f", avg);
 
     }
 }
