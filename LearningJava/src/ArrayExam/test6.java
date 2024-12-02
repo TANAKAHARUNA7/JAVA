@@ -23,8 +23,7 @@ public class test6 {
                     break;
 
                 case 3:
-
-
+                    delete();
 
             }
 
@@ -85,18 +84,39 @@ public class test6 {
 
     public static void delete() {
         while (true){
+            // 현재 입력된 학생들의 목록을 출력
             System.out.println("삭제할 학생의 목록: ");
             for (int i = 0 ; i < count ; i++ ){
                 System.out.printf("[학번: %.0f] 국어: %.2f, 영어: %2f, 수학: %.2f, 합계: %2f, 평균: %2f\n",
                         students[i][0], students[i][1], students[i][2], students[i][3], students[i][4], students[i][5]);
             }
+            // 삭제할 학생의 학번을 입력
             System.out.print("삭제할 학");
+            float delId = sc.nextFloat();
+
+            // 학번 존재 - 해당 학생 데이터 삭제
+            for( int i = 0 ; i < count ; i++ ){
+                if(students[i][0] == delId){
+                    for ( int j = 0; j < students[i].length ; j++ ){
+                        students[i][j] = students[i + 1][j];
+                    }
+                }
+            }
+
+            // 마지막 행을 0으로 초기화
+            for( int i = 0 ; i < students.length ;  ){
+
+
+            }
 
 
         }
-
-
     }
+
+
+
+
+
 
 
 }
