@@ -1,6 +1,6 @@
 package ArrayExam;
 import java.util.Scanner;
-public class Sinwo {
+public class Lab1Sinwo {
     static Scanner scanner = new Scanner(System.in);
     static float[][] students = new float[3][6];
     static int count = 0;

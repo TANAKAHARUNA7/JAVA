@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55a5957f-84d4-4914-aeed-594a1a72dbd2" name="変更" comment="24年　11月5日　파일 정리">
+      <change beforePath="$PROJECT_DIR$/src/ArrayExam/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExam/Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayExam/test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExam/test6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nuzq58srmaKfMrRRTgQqX8fXUB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive - yjc.ac.kr/바탕 화면/학습자료/JAVA/LearningJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;アプリケーション.CharExample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.CommentExample.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.DeleteEx.executor&quot;: &quot;Debug&quot;,
+    &quot;アプリケーション.FunctionEx1.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.J1024.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.J1031.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Lab1.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Lab2.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Lab3.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Lab4.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Lab5.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.SinWoo.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.Sinwo.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.anser.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.functionEx.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.j108.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.ploblem2.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.problem.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.test1.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.test11.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.test15.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.test2.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.test3.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.test4.executor&quot;: &quot;Run&quot;,
+    &quot;アプリケーション.test5.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="MidterMexam" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="55a5957f-84d4-4914-aeed-594a1a72dbd2" name="変更" comment="" />
+      <created>1729837938113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729837938113</updated>
+      <workItem from="1729837939128" duration="284000" />
+      <workItem from="1729838337618" duration="134000" />
+      <workItem from="1730781586756" duration="18000" />
+      <workItem from="1730781640513" duration="401000" />
+      <workItem from="1730782098155" duration="38000" />
+      <workItem from="1731501717391" duration="4102000" />
+      <workItem from="1731558151559" duration="6099000" />
+      <workItem from="1731564775932" duration="223000" />
+      <workItem from="1731574844338" duration="488000" />
+      <workItem from="1731575339354" duration="5000" />
+      <workItem from="1731575352856" duration="77000" />
+      <workItem from="1731575434397" duration="722000" />
+      <workItem from="1731591095320" duration="1000" />
+      <workItem from="1731591122885" duration="770000" />
+      <workItem from="1731643011542" duration="4856000" />
+      <workItem from="1731681904625" duration="3289000" />
+      <workItem from="1731744464641" duration="6297000" />
+      <workItem from="1731933287157" duration="4000" />
+      <workItem from="1731933302390" duration="13000" />
+      <workItem from="1731987161395" duration="1718000" />
+      <workItem from="1732081676458" duration="2565000" />
+      <workItem from="1732085397866" duration="5629000" />
+      <workItem from="1732104404047" duration="3160000" />
+      <workItem from="1732108527570" duration="1144000" />
+      <workItem from="1732164563499" duration="14794000" />
+      <workItem from="1732214981020" duration="1256000" />
+      <workItem from="1732256542840" duration="4453000" />
+      <workItem from="1732277636911" duration="3707000" />
+      <workItem from="1732351930324" duration="9387000" />
+      <workItem from="1732520121712" duration="334000" />
+      <workItem from="1732554585601" duration="3104000" />
+      <workItem from="1732582989269" duration="6651000" />
+      <workItem from="1732622921925" duration="3925000" />
+      <workItem from="1732626884308" duration="2470000" />
+      <workItem from="1732629380559" duration="822000" />
+      <workItem from="1732630212881" duration="385000" />
+      <workItem from="1732630787966" duration="36000" />
+      <workItem from="1732690825359" duration="2806000" />
+      <workItem from="1732695847988" duration="3674000" />
+      <workItem from="1732710607878" duration="1005000" />
+      <workItem from="1732770170730" duration="6465000" />
+      <workItem from="1732782316853" duration="2218000" />
+      <workItem from="1732784557838" duration="1303000" />
+      <workItem from="1732785876144" duration="10949000" />
+      <workItem from="1732870212256" duration="5508000" />
+      <workItem from="1732968221329" duration="136000" />
+      <workItem from="1733037783174" duration="10180000" />
+      <workItem from="1733115924058" duration="4723000" />
+      <workItem from="1733133839670" duration="4341000" />
+      <workItem from="1733138223741" duration="4121000" />
+      <workItem from="1733142371556" duration="730000" />
+      <workItem from="1733145102847" duration="2121000" />
+      <workItem from="1733306492557" duration="92000" />
+    </task>
+    <task id="LOCAL-00001" summary="24년 10월 25일 파일정리">
+      <option name="closed" value="true" />
+      <created>1729838384450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729838384450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="24年　11月5日　파일 정리">
+      <option name="closed" value="true" />
+      <created>1730781676841</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730781676841</updated>
+    </task>
+    <task id="LOCAL-00003" summary="24年　11月5日　파일 정리">
+      <option name="closed" value="true" />
+      <created>1730781684287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730781684287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="24년 10월 25일 파일정리" />
+    <MESSAGE value="24年　11月5日　특강 문제 풀기" />
+    <MESSAGE value="24年　11月5日　파일 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="24年　11月5日　파일 정리" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ArrayExam/test1.java</url>
+          <line>2</line>
+          <properties class="ArrayExam.test1" method="createIntArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayExam/test3.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayExam/Sinwo.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayExam/DeleteEx.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

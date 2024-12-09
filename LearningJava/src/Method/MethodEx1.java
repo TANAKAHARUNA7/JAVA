@@ -1,6 +1,6 @@
-package Flow_control;
+package Method;
 
-public class FunctionEx1 {
+public class MethodEx1 {
     static void gugudan() {
         for (int dan = 2; dan <= 9; dan++) {
             for (int num = 1; num <= 9; num++) {
@@ -34,25 +34,25 @@ public class FunctionEx1 {
         // if series
         // 1 이면 구구단 출력
         if (inputValue == 1) {
-            FunctionEx1.gugudan();
+            MethodEx1.gugudan();
             // 2 이면 a ~ z 출력
         } else if (inputValue == 2) {
-            FunctionEx1.aToZ();
+            MethodEx1.aToZ();
             // 3 이면 8 X 32 "*" 출력
         } else if (inputValue == 3) {
-            FunctionEx1.matrix();
+            MethodEx1.matrix();
         }
 
         // switch
         switch (inputValue) {
             case 1:
-                FunctionEx1.gugudan();
+                MethodEx1.gugudan();
                 break;
             case 2:
-                FunctionEx1.aToZ();
+                MethodEx1.aToZ();
                 break;
             case 3:
-                FunctionEx1.matrix();
+                MethodEx1.matrix();
                 break;
         }
     }
