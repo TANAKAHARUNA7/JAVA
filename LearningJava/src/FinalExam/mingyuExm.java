@@ -2,7 +2,7 @@ package FinalExam;
 
 import java.util.Scanner;
 
-public class mingyu {
+public class mingyuExm {
     static void menu() {
         System.out.println("===== 빙고 게임 메뉴 =====");
         System.out.println("1. 빙고판 생성");
@@ -21,7 +21,7 @@ public class mingyu {
         int sizeN = 0; // 빙고 N값 변수
         int startNum = 0; int endNum = 0; // 난수 범위 시작, 종료 값
         int sizeM = 0; // 빙고 매트릭스 M값 변수
-        int[][][] bingoBoard = new int[0][][];
+        int[][][] bingoBoard = null;
 
 
         while (true) {
@@ -109,7 +109,6 @@ public class mingyu {
                                 randList[c] = randNum;
                                 c++;
                             }
-
                         }
 
                         // 1차원 배열에 저장된 난수를 빙고판에 저장
@@ -120,7 +119,6 @@ public class mingyu {
                                 v++;
                             }
                         }
-
                     }
 
                     break;

@@ -19,8 +19,6 @@ public class MethodEx2 {
                 totalDiscount += calculateDiscount(purchases[i]);
                 System.out.println("割引価格: " + totalDiscount);
             }
-
-
         }
     }
 

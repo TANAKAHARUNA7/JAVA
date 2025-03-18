@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f789fa39-1e41-4ce9-ad7b-211aa722976b" name="変更" comment="" />
+    <list default="true" id="f789fa39-1e41-4ce9-ad7b-211aa722976b" name="変更" comment="変更">
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/dkdk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/FinalExam/finalExm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/Method/MethodEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/SelfStudy/oopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/SelfStudy/star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/BungeoppangTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/Maintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/MemberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/OverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/SampleCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/StuSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/StuSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oopLab/Lab1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oopLab/Lab2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningJava/src/FinalExam/mingyu.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/FinalExam/mingyuExm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningJava/src/FinalExam/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/FinalExam/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningJava/src/Method/MethodEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/Method/MethodEx2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,20 +69,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/OneDrive - yjc.ac.kr/바탕 화면/학습자료/JAVA/LearningJava/src/special_class",
+    "last_opened_file_path": "C:/Users/USER/OneDrive - yjc.ac.kr/바탕 화면/학습자료/JAVA/LearningJava/src/oop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "モジュール",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true",
+    "アプリケーション.BungeoppangTest.executor": "Run",
+    "アプリケーション.Constructor.executor": "Run",
+    "アプリケーション.Lab1.executor": "Run",
+    "アプリケーション.Lab1Test1.executor": "Run",
+    "アプリケーション.Main.executor": "Run",
+    "アプリケーション.Maintest.executor": "Run",
+    "アプリケーション.MemberTest.executor": "Run",
+    "アプリケーション.MethodEx2.executor": "Run",
+    "アプリケーション.OverLoading.executor": "Run",
+    "アプリケーション.SampleCar.executor": "Run",
+    "アプリケーション.StuSample.executor": "Debug",
+    "アプリケーション.StuSample2.executor": "Run",
+    "アプリケーション.Test.executor": "Run",
+    "アプリケーション.Test1.executor": "Run",
     "アプリケーション.anser.executor": "Run",
+    "アプリケーション.dkdk.executor": "Run",
+    "アプリケーション.j108.executor": "Run",
+    "アプリケーション.oopTest.executor": "Run",
+    "アプリケーション.ploblem2.executor": "Run",
     "アプリケーション.problem.executor": "Run",
-    "アプリケーション.test1.executor": "Debug"
+    "アプリケーション.star.executor": "Run",
+    "アプリケーション.test.executor": "Run",
+    "アプリケーション.test1.executor": "Run",
+    "アプリケーション.test11.executor": "Run",
+    "アプリケーション.test3.executor": "Run",
+    "アプリケーション.test5.executor": "Run",
+    "アプリケーション.test8.executor": "Run",
+    "アプリケーション.test9.executor": "Run"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive - yjc.ac.kr\바탕 화면\학습자료\JAVA\LearningJava\src\oop" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="학습자료" />
@@ -63,8 +137,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
       </set>
     </attachedChunks>
   </component>
@@ -80,11 +154,40 @@
       <workItem from="1731924113317" duration="16000" />
       <workItem from="1731924166952" duration="41000" />
       <workItem from="1731924214587" duration="16000" />
+      <workItem from="1741155713114" duration="319000" />
+      <workItem from="1741156039976" duration="106000" />
+      <workItem from="1741156345050" duration="39000" />
+      <workItem from="1741172274007" duration="140000" />
+      <workItem from="1741172420931" duration="1070000" />
+      <workItem from="1741173515166" duration="1607000" />
+      <workItem from="1741262557091" duration="372000" />
+      <workItem from="1741361221557" duration="1875000" />
+      <workItem from="1741517351677" duration="4177000" />
+      <workItem from="1741583033576" duration="17573000" />
+      <workItem from="1741615116853" duration="3889000" />
+      <workItem from="1741701010750" duration="892000" />
+      <workItem from="1741704858437" duration="433000" />
+      <workItem from="1741756125351" duration="12466000" />
+      <workItem from="1741868887996" duration="1842000" />
+      <workItem from="1741931170900" duration="1215000" />
+      <workItem from="1742186392364" duration="3000" />
+      <workItem from="1742187807537" duration="11510000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -94,7 +197,22 @@
           <line>24</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LearningJava/out/production/Tanaka/ArrayExam/DeleteEx.class</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/LearningJava/src/oop/BungeoppangTest.java</url>
+          <line>3</line>
+          <properties field="filling" class="oop.Bungeoppang" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
