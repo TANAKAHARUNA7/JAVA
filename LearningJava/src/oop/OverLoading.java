@@ -9,6 +9,7 @@ class User {
     String university;
     String department;
 
+
     User() {
         university = "ヨンジン専門大学";
     }

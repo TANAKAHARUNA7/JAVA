@@ -5,43 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f789fa39-1e41-4ce9-ad7b-211aa722976b" name="変更" comment="変更">
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/dkdk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/AojBeta/test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/FinalExam/finalExm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/Method/MethodEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/SelfStudy/oopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/SelfStudy/star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/BungeoppangTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/Maintest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/MemberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/OverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/SampleCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/StuSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/StuSample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oopLab/Lab1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/oopLab/Lab2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningJava/src/oop/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningJava/src/FinalExam/mingyu.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/FinalExam/mingyuExm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningJava/src/FinalExam/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/FinalExam/test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningJava/src/Method/MethodEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/Method/MethodEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningJava/src/oop/OverLoading.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava/src/oop/OverLoading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +56,7 @@
     "アプリケーション.Lab1.executor": "Run",
     "アプリケーション.Lab1Test1.executor": "Run",
     "アプリケーション.Main.executor": "Run",
+    "アプリケーション.MainClass.executor": "Run",
     "アプリケーション.Maintest.executor": "Run",
     "アプリケーション.MemberTest.executor": "Run",
     "アプリケーション.MethodEx2.executor": "Run",
@@ -172,7 +140,19 @@
       <workItem from="1741931170900" duration="1215000" />
       <workItem from="1742186392364" duration="3000" />
       <workItem from="1742187807537" duration="11510000" />
+      <workItem from="1742275404966" duration="147000" />
+      <workItem from="1742298558804" duration="6855000" />
+      <workItem from="1742360779232" duration="4363000" />
     </task>
+    <task id="LOCAL-00001" summary="変更">
+      <option name="closed" value="true" />
+      <created>1742275417477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742275417477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +169,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="変更" />
+    <option name="LAST_COMMIT_MESSAGE" value="変更" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -201,6 +185,11 @@
           <url>file://$PROJECT_DIR$/LearningJava/out/production/Tanaka/ArrayExam/DeleteEx.class</url>
           <line>26</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LearningJava/src/oop/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/LearningJava/src/oop/BungeoppangTest.java</url>
