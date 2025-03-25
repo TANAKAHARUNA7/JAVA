@@ -4,7 +4,7 @@ package oop;
         String model;
 
 
-        static{
+        {
         System.out.println("初期化ブロック");}
 
         Car2(String model){
