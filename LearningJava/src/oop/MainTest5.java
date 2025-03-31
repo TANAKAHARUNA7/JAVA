@@ -150,12 +150,14 @@ public class MainTest5 {
             }
             // 選択されたメニューのプログラム実施
             switch (choice) {
+                // 入力
                 case 1:
                     System.out.println("入力学生数:　");
                     int stdNum = sc.nextInt(); // 学生数を入力
                     stdMgr = new StdScoreMgr(stdNum); // 学生管理オブジェクト作成
                     stdMgr.addStudent(); // 学生情報の入力開始
                     break;
+                // データの出力
                 case 2:
                     if (stdMgr != null) {
                         stdMgr.prt();
