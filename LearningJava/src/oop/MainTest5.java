@@ -131,7 +131,7 @@ class StdScoreMgr {
 public class MainTest5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        StdScoreMgr stdMgr = null;
+        StdScoreMgr stdMgr = null;  // 「変数だけ先に宣言して, まだオブジェクトは作ってない」って意味だよ。
 
         while (true) {
             // メニュー表示
