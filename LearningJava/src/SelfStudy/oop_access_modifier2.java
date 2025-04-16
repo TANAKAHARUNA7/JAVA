@@ -4,24 +4,21 @@ class Student3{
     private String name;
     private int score;
 
-    public void setName(String argName){
+    void setName(String argName){
         if (argName != null && !argName.isEmpty()){
             name = argName;
         }
     }
-    public void setScore(int argScore){
+    void setScore(int argScore){
         if(argScore <= 100 && argScore >= 0){
             score = argScore;
         }
-    }
-    public String getName(){
+    }String getName(){
         return name;
     }
-    public int getScore(){
+    int getScore(){
         return score;
     }
-
-
 }
 
 public class oop_access_modifier2 {

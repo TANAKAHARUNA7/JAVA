@@ -4,16 +4,16 @@ class Student4 {
     private String name;
     private int score;
 
-    public Student4(String name, int score) {
+    Student4(String name, int score) {
         this.name = name;
         this.score = score;
     }
 
-    public String getName() {
+    String getName() {
         return name;
     }
 
-    public int getScore() {
+    int getScore() {
         return score;
     }
 }
